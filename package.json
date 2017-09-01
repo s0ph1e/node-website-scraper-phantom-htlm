@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "phantomjs-prebuilt": "^2.1.14",
-    "system": "^1.2.0",
+    "system": "^2.0.1",
     "webpage": "^0.3.0",
     "bluebird": "^3.4.7"
   },
