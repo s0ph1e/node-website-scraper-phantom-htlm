@@ -1,4 +1,6 @@
 ## Introduction
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/website-scraper/node-website-scraper-phantom.svg)](https://greenkeeper.io/)
 Plugin for [website-scraper](https://github.com/s0ph1e/node-website-scraper) which returns html for dynamic websites using PhantomJS.
 
 ## Installation
